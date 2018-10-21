@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+
+
+message Dog {
+  string name = 1;
+  string breed = 3;
+}
