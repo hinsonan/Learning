@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-9aff60f18d31984c02a48e0b0664a74f protobufs/dog.pb.cc
