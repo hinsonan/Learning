@@ -1,3 +1,4 @@
+// to compile this run g++ -g --std=c++11 -pthread threading_game_example.cc -o game
 #include <thread>
 #include <iostream>
 #include <pthread.h>
